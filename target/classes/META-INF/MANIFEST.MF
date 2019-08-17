@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth2server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jjf000s
+Implementation-Vendor-Id: mx.com.devs4j.microservices
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/oauth2server
+Created-By: Maven Integration for Eclipse
+
